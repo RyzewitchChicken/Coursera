@@ -1,0 +1,41 @@
+
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #ffffff;
+    
+  }
+
+#header-nav {
+    background-color: #8c8c8c;
+    border-radius: 0;
+    border: 0;
+  }
+
+#header-nav h1{
+  color: #000000;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#nav-list a {
+  color: #000000;
+  text-align: center;
+  background-color: #8c8c8c;
+  font-weight: bold;
+  border: 1px;
+}
+
+#par{
+  background-color: #8c8c8c;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+  
+
+#par h2 {
+  text-align: center;
+  color: #ffffff;
+}
+
+
